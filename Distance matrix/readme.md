@@ -22,3 +22,7 @@ Distance matrices and dissimilarity matrices
 All distance matrices are dissimilarity matrices, but not all dissimilarity matrices are distance matrices. The distances shown in a distance matrix are proportional
 to each other. If the distance between A and B is twice the distance between A and C, that means that B is twice as far from A as is C. By contrast, in a dissimilarity
 matrix the values may only reflect relative differences.
+
+output:
+
+![image](https://user-images.githubusercontent.com/80147820/172341185-280634c8-ed6b-4cbe-a8ce-d985a3322d15.png)
