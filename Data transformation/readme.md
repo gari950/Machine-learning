@@ -23,4 +23,5 @@ Formula for Normalization:
 
 
 ![image](https://user-images.githubusercontent.com/80147820/172338468-ae5d3907-bca6-4f86-ac90-14c875412ff4.png)
+
 fig- normalization
