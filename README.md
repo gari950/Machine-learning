@@ -1,4 +1,4 @@
-# Machine-learning basics
+# Machine-learning in data science basics
 
 This module covers the basics of machine learning in data science using python.
 
