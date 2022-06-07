@@ -16,4 +16,9 @@ Cos (x, y) = x . y / ||x|| * ||y|| where,
 •	||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
 •	||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’.
 
+output:
+
+![image](https://user-images.githubusercontent.com/80147820/172342611-a128160c-5fcf-44c3-bb18-f4f50a80f5c7.png)
+
+![image](https://user-images.githubusercontent.com/80147820/172342717-7c723ce1-0f9d-479f-a4c8-396bb9acd224.png)
 
