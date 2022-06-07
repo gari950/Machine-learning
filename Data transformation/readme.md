@@ -25,3 +25,15 @@ Formula for Normalization:
 ![image](https://user-images.githubusercontent.com/80147820/172338468-ae5d3907-bca6-4f86-ac90-14c875412ff4.png)
 
 fig- normalization
+
+output:
+
+![image](https://user-images.githubusercontent.com/80147820/172341450-24a671bd-760f-4963-9459-d8ecc209ee25.png)
+
+![image](https://user-images.githubusercontent.com/80147820/172341512-8a0e5108-81a0-4579-8885-355c6461fb0e.png)
+
+![image](https://user-images.githubusercontent.com/80147820/172341567-4fa6953e-033a-440c-827f-7139ab366e23.png)
+
+![image](https://user-images.githubusercontent.com/80147820/172341622-3b5ce85a-7f5e-474a-90fd-403e99017b84.png)
+
+
