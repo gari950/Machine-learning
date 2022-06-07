@@ -1,6 +1,6 @@
 Objective/ Aim: To analyse entity identification problem, redundancy and correlation analysis on a given sample dataset.
 
-Data set URL: https: kaggle.com/sudiptog81/kpmg-virtual-internship-module-2/data 
+Data set URL: https: https://www.kaggle.com/code/sudiptog81/kpmg-virtual-internship-module-2/data
 
 Tools: python
 
