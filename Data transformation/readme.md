@@ -19,7 +19,7 @@ Normalization is a scaling technique in which values are shifted and rescaled so
 
 Formula for Normalization:
 
-![image](https://user-images.githubusercontent.com/80147820/172338395-673bbd36-f02a-48eb-a0d5-6022c041b6aa.png)
+![image](https://user-images.githubusercontent.com/80147820/172338749-01a10654-13af-42da-80c3-067419192b14.png)
 
 
 ![image](https://user-images.githubusercontent.com/80147820/172338468-ae5d3907-bca6-4f86-ac90-14c875412ff4.png)
